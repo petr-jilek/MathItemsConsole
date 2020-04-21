@@ -5,7 +5,7 @@ using System.Text;
 namespace MathItems.Models
 {
     public class Vector
-    {
+    {     
         public readonly int dimension;
         public double[] values;
 
